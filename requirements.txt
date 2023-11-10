@@ -1,0 +1,4 @@
+PyInquirer
+requests_html
+pydradis3
+reportlab
